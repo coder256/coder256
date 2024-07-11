@@ -5,7 +5,6 @@
 - CTO partner
 
 ##### connect
-<!--- [<img src="https://www.cdnlogo.com/logos/t/45/twitter.svg" height="15"> Twitter](https://x.com/A_One_Ande)-->
 - [<img src="https://www.cdnlogo.com/logos/l/37/linkedin.svg" height="60">](https://www.linkedin.com/in/andrewmugasa/)
 - [<img src="https://www.cdnlogo.com/logos/t/37/telegram.svg" height="60">](https://t.me/ganxtamugs)
 
