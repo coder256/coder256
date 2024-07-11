@@ -1,33 +1,39 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to `coder256`
 
-That is so funny
+- Full-stack developer
+- Open to work
+- CTO partner
 
-<!--![alt text](https://www.cdnlogo.com/logos/l/23/laravel.svg) -->
+##### connect
+<!--- [<img src="https://www.cdnlogo.com/logos/t/45/twitter.svg" height="15"> Twitter](https://x.com/A_One_Ande)-->
+- [<img src="https://www.cdnlogo.com/logos/l/37/linkedin.svg" height="60">](https://www.linkedin.com/in/andrewmugasa/)
+- [<img src="https://www.cdnlogo.com/logos/t/37/telegram.svg" height="60">](https://t.me/ganxtamugs)
+
 ## Technologies
 ###### Front-end
-|  |  |
-| ---: | ----------- |
-| <img src="https://www.cdnlogo.com/logos/c/59/css-3.svg" height="80"> | <img src="https://www.cdnlogo.com/logos/p/71/php.svg" width="80" height="80">
+|  |  |  |  | |
+| ---: | :---: | :---: | :---: | :---: |
+| <img src="https://www.cdnlogo.com/logos/h/90/html-5.svg" height="70"> | <img src="https://www.cdnlogo.com/logos/c/59/css-3.svg" height="100">| <img src="https://www.cdnlogo.com/logos/j/44/javascript.svg" height="60"> | <img src="https://www.cdnlogo.com/logos/v/69/vue.svg" height="60"> | <img src="https://www.cdnlogo.com/logos/b/50/bootstrap.svg" height="50">
 
 
 ###### Back-end
-|       |  |  | |
-| :---        |    :----:  |          ---: | ---: |
-| <img src="https://www.cdnlogo.com/logos/l/23/laravel.svg" width="80" height="60"> | <img src="https://www.cdnlogo.com/logos/p/71/php.svg" height="60">| <img src="https://www.cdnlogo.com/logos/p/3/python.svg" height="60"> | <img src="https://www.cdnlogo.com/logos/d/97/django-community.svg" width="100">
+|       |  |  | | | |
+| :---        |    :----:  |  ---: | ---: | ---: | ---: |
+| <img src="https://www.cdnlogo.com/logos/l/23/laravel.svg" height="60"> | <img src="https://www.cdnlogo.com/logos/p/71/php.svg" height="60">| <img src="https://www.cdnlogo.com/logos/p/3/python.svg" height="60"> | <img src="https://www.cdnlogo.com/logos/d/97/django-community.svg" width="100">| <img src="https://www.cdnlogo.com/logos/f/50/flask.svg" height="90">| <img src="https://www.cdnlogo.com/logos/n/79/node-js.svg" height="90">
 
 
+###### Database
+| | | |
+| :---: | :---: | --- |
+| <img src="https://www.cdnlogo.com/logos/p/93/postgresql.svg" height="60"> |<img src="https://www.cdnlogo.com/logos/m/10/mysql.svg" height="60">| <img src="https://www.cdnlogo.com/logos/s/41/sqlite.svg" height="60">
 
-<!--
-**coder256/coder256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### More
+| | | ||
+| :---: | :---: | --- | --- |
+| <img src="https://www.cdnlogo.com/logos/f/30/flutter.svg" height="60"> |<img src="https://www.cdnlogo.com/logos/w/94/wordpress-blue.svg" height="80">|<img src="https://www.cdnlogo.com/logos/f/30/firebase.svg" height="100">| <img src="https://www.cdnlogo.com/logos/d/69/digitalocean.svg" height="60"> |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Tools
+| | | | | | |
+|:---: | :---: | :---: | :---: |:---: |:---: |
+|<img src="https://www.cdnlogo.com/logos/d/41/docker.svg" height="80">| <img src="https://www.cdnlogo.com/logos/g/31/github.svg" width="80">|<img src="https://www.cdnlogo.com/logos/p/61/phpstorm.svg" height="80">|<img src="https://www.cdnlogo.com/logos/a/36/android-studio.svg" height="80">|<img src="https://www.cdnlogo.com/logos/g/37/gitlab.svg" height="80">|<img src="https://www.cdnlogo.com/logos/p/20/postman.svg" height="80">|
