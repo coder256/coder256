@@ -4,13 +4,13 @@ That is so funny
 
 <!--![alt text](https://www.cdnlogo.com/logos/l/23/laravel.svg) -->
 ##Technologies
-######Front-end
+###Front-end
 |  |  |
 | ---: | ----------- |
 | <img src="https://www.cdnlogo.com/logos/c/59/css-3.svg" height="80"> | <img src="https://www.cdnlogo.com/logos/p/71/php.svg" width="80" height="80">
 
 
-######Back-end
+###Back-end
 |       |  |  | |
 | :---        |    :----:  |          ---: | ---: |
 | <img src="https://www.cdnlogo.com/logos/l/23/laravel.svg" width="80" height="60"> | <img src="https://www.cdnlogo.com/logos/p/71/php.svg" height="60">| <img src="https://www.cdnlogo.com/logos/p/3/python.svg" height="60"> | <img src="https://www.cdnlogo.com/logos/d/97/django-community.svg" width="100">
